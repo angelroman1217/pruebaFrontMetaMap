@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.bdd {
+  padding: 2px;
+  margin: 42px;
+}
+.lft{
+  text-align: end;
+}
 
 .App-logo {
   height: 40vmin;
